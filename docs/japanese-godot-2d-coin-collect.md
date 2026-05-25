@@ -22,6 +22,11 @@
 - ゲームオーバー表示
 - Rキーでの再スタート
 
+## 技術メモ
+
+- [Input MapでWASDと方向キーを同じ移動処理にする](godot-4-input-map-wasd-ja.md)
+- [2Dプレイヤーの斜め移動が速くなる問題を直す](godot-4-diagonal-speed-ja.md)
+
 ## 無料で確認できるもの
 
 - Zenn無料版: https://zenn.dev/batstudio/books/godot-2d-coin-collect-ja?utm_source=github_assets&utm_medium=guide&utm_campaign=godot_coin_ja_assets

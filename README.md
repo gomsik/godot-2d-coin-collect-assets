@@ -30,6 +30,8 @@ The tutorial covers player movement, Input Map, coin pickup, Area2D, signals, sc
 - Free browser demo: https://batstudio.gumroad.com/l/godot-coin-ja-demo?utm_source=github_assets&utm_medium=readme&utm_campaign=godot_coin_ja_assets
 - Gumroad PDF/EPUB package: https://batstudio.gumroad.com/l/arcxuq?utm_source=github_assets&utm_medium=readme&utm_campaign=godot_coin_ja_assets
 - Japanese guide page in this repository: [docs/japanese-godot-2d-coin-collect.md](docs/japanese-godot-2d-coin-collect.md)
+- Input Map / WASD note: [docs/godot-4-input-map-wasd-ja.md](docs/godot-4-input-map-wasd-ja.md)
+- Diagonal movement speed note: [docs/godot-4-diagonal-speed-ja.md](docs/godot-4-diagonal-speed-ja.md)
 
 ## 日本語での案内
 
