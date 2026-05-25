@@ -127,9 +127,6 @@ Signal周りで迷う場合は、次のチェックリストも使えます。
 
 - Zenn無料版: https://zenn.dev/batstudio/books/godot-2d-coin-collect-ja?utm_source=github_assets&utm_medium=sample_zip_note&utm_campaign=godot_coin_ja_samples
 
-購入前にゲームの雰囲気だけ確認したい方には、ブラウザで開ける無料デモがあります。
-
-- 無料デモ: https://batstudio.gumroad.com/l/godot-coin-ja-demo?utm_source=github_assets&utm_medium=sample_zip_note&utm_campaign=godot_coin_ja_samples
 
 PDF/EPUBと章ごとの完成サンプルZIPをまとめて受け取りたい方には、Gumroad版があります。
 

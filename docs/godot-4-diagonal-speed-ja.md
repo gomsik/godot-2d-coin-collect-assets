@@ -121,5 +121,4 @@ position.y = clamp(position.y, 32.0, 568.0)
 この移動処理を含めて、空のGodotプロジェクトから2Dコイン収集ゲームを完成させる日本語の実習書としてまとめています。
 
 - Zenn無料版: https://zenn.dev/batstudio/books/godot-2d-coin-collect-ja?utm_source=github_assets&utm_medium=tech_note&utm_campaign=godot_coin_ja_player_move
-- 無料デモ: https://batstudio.gumroad.com/l/godot-coin-ja-demo?utm_source=github_assets&utm_medium=tech_note&utm_campaign=godot_coin_ja_player_move
 - Gumroad版: https://batstudio.gumroad.com/l/arcxuq?utm_source=github_assets&utm_medium=tech_note&utm_campaign=godot_coin_ja_player_move

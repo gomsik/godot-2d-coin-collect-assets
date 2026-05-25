@@ -65,10 +65,9 @@ HUDを `CanvasLayer` に分けた場合や、LabelをPanelの中に入れた場�
 
 ## 無料で確認できるもの
 
-本文はZennで無料公開しています。ゲームの雰囲気は無料デモでも確認できます。
+本文はZennで無料公開しています。PDF/EPUBと章別サンプルZIPが必要な場合はGumroad版を利用できます。
 
 - Zenn無料版: https://zenn.dev/batstudio/books/godot-2d-coin-collect-ja?utm_source=github_assets&utm_medium=node_signal_note&utm_campaign=godot_coin_ja_troubleshooting
-- 無料デモ: https://batstudio.gumroad.com/l/godot-coin-ja-demo?utm_source=github_assets&utm_medium=node_signal_note&utm_campaign=godot_coin_ja_troubleshooting
 - 共通アセット: https://github.com/gomsik/godot-2d-coin-collect-assets/releases/latest/download/coin_collect_assets.zip
 
 ## PDF/EPUBと章別サンプルが必要な場合

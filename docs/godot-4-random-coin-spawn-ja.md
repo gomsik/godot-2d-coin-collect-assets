@@ -129,9 +129,6 @@ Sceneツリー上の名前が `Coin2D` や `CoinArea` なら、このパスも�
 
 - Zenn無料版: https://zenn.dev/batstudio/books/godot-2d-coin-collect-ja?utm_source=github_assets&utm_medium=random_spawn_note&utm_campaign=godot_coin_ja_random_spawn
 
-購入前にゲームの雰囲気だけ確認したい方には、ブラウザで開ける無料デモがあります。
-
-- 無料デモ: https://batstudio.gumroad.com/l/godot-coin-ja-demo?utm_source=github_assets&utm_medium=random_spawn_note&utm_campaign=godot_coin_ja_random_spawn
 
 PDF/EPUBと章ごとの完成サンプルZIPをまとめて受け取りたい方には、Gumroad版があります。
 

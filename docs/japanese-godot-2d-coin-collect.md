@@ -2,7 +2,7 @@
 
 このページは、Godot 4.xで最初の2Dゲームを作りたい方向けの日本語チュートリアル案内です。
 
-本文はZennで無料公開しています。購入前にゲームの雰囲気を確認したい場合は、ブラウザで開ける無料デモもあります。PDF/EPUBで手元に置きたい方、章ごとの完成サンプルZIPと比較しながら進めたい方にはGumroad版があります。
+本文はZennで無料公開しています。PDF/EPUBで手元に置きたい方、章ごとの完成サンプルZIPと比較しながら進めたい方にはGumroad版があります。
 
 ## 作るもの
 
@@ -37,7 +37,6 @@
 ## 無料で確認できるもの
 
 - Zenn無料版: https://zenn.dev/batstudio/books/godot-2d-coin-collect-ja?utm_source=github_assets&utm_medium=guide&utm_campaign=godot_coin_ja_assets
-- 無料ブラウザデモ: https://batstudio.gumroad.com/l/godot-coin-ja-demo?utm_source=github_assets&utm_medium=guide&utm_campaign=godot_coin_ja_assets
 - このリポジトリの共通アセット: https://github.com/gomsik/godot-2d-coin-collect-assets/releases/latest/download/coin_collect_assets.zip
 
 ## Gumroad版に含まれるもの

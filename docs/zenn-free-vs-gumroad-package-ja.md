@@ -9,7 +9,6 @@
 | 目的 | おすすめ |
 | --- | --- |
 | まず本文を読んで内容を確認したい | Zenn無料版 |
-| ブラウザで完成イメージを軽く試したい | 無料デモ |
 | PDF/EPUBで手元に置きたい | Gumroad版 |
 | 途中で詰まった時に章ごとの完成状態と比較したい | Gumroad版 |
 | 実習用の共通アセットだけ先に確認したい | GitHub assets |
@@ -21,14 +20,6 @@ Zenn無料版では、章立てと本文をそのまま読めます。
 空のGodotプロジェクトから始めて、Input Map、プレイヤー移動、コイン収集、HUD、制限時間、ゲームオーバー、Rキーでの再スタートまでの流れを確認できます。
 
 - Zenn無料版: https://zenn.dev/batstudio/books/godot-2d-coin-collect-ja?utm_source=github_assets&utm_medium=comparison&utm_campaign=godot_coin_ja_free_vs_paid
-
-## 無料デモで確認できること
-
-無料デモでは、この教材で作るゲームの雰囲気をブラウザで確認できます。
-
-Godotプロジェクト本体や電子書籍は含まれていません。購入前に、コイン収集ゲームの小さな完成イメージを見るための入口です。
-
-- 無料デモ: https://batstudio.gumroad.com/l/godot-coin-ja-demo?utm_source=github_assets&utm_medium=comparison&utm_campaign=godot_coin_ja_free_vs_paid
 
 ## Gumroad版に含まれるもの
 
