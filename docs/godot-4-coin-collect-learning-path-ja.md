@@ -44,6 +44,14 @@ Rキーで `reload_current_scene()` を呼ぶと、小さな練習ゲームで�
 
 - [ゲームオーバー表示とRキーのリトライを作る最小構成](godot-4-game-over-retry-ja.md)
 
+## 6. 動かない時はNodeとSignalを確認する
+
+最後に、Sceneツリー上のNode名、Scriptを付けたNode、NodePath、Signal接続を確認します。
+
+コードは正しそうなのにHUDが更新されない、Signalが呼ばれない、Nodeが見つからない場合は、次のチェックリストから見ると原因を分けやすくなります。
+
+- [NodeとSignalのつながりを確認するチェックリスト](godot-4-node-signal-troubleshooting-ja.md)
+
 ## 無料で確認できるもの
 
 本文はZennで無料公開しています。ゲームの雰囲気は無料デモでも確認できます。

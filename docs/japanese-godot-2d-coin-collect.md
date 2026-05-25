@@ -30,6 +30,7 @@
 - [2Dプレイヤーの斜め移動が速くなる問題を直す](godot-4-diagonal-speed-ja.md)
 - [Area2Dの当たり判定が反応しない時のチェックリスト](godot-4-area2d-collision-checklist-ja.md)
 - [ゲームオーバー表示とRキーのリトライを作る最小構成](godot-4-game-over-retry-ja.md)
+- [NodeとSignalのつながりを確認するチェックリスト](godot-4-node-signal-troubleshooting-ja.md)
 
 ## 無料で確認できるもの
 

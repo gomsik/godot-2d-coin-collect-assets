@@ -36,6 +36,7 @@ The tutorial covers player movement, Input Map, coin pickup, Area2D, signals, sc
 - Diagonal movement speed note: [docs/godot-4-diagonal-speed-ja.md](docs/godot-4-diagonal-speed-ja.md)
 - Area2D collision checklist: [docs/godot-4-area2d-collision-checklist-ja.md](docs/godot-4-area2d-collision-checklist-ja.md)
 - Game over / retry note: [docs/godot-4-game-over-retry-ja.md](docs/godot-4-game-over-retry-ja.md)
+- Node / Signal troubleshooting: [docs/godot-4-node-signal-troubleshooting-ja.md](docs/godot-4-node-signal-troubleshooting-ja.md)
 
 ## 日本語での案内
 
@@ -48,6 +49,7 @@ Godot 4.xで最初の2Dゲームを完成させたい方向けに、コイン収
 - Gumroad版: https://batstudio.gumroad.com/l/arcxuq?utm_source=github_assets&utm_medium=readme_ja&utm_campaign=godot_coin_ja_assets
 - 学習順まとめ: [docs/godot-4-coin-collect-learning-path-ja.md](docs/godot-4-coin-collect-learning-path-ja.md)
 - Zenn無料版とGumroad版の違い: [docs/zenn-free-vs-gumroad-package-ja.md](docs/zenn-free-vs-gumroad-package-ja.md)
+- NodeとSignalの確認チェックリスト: [docs/godot-4-node-signal-troubleshooting-ja.md](docs/godot-4-node-signal-troubleshooting-ja.md)
 
 ## Usage
 
