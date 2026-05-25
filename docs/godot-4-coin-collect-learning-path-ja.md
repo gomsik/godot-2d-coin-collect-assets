@@ -56,4 +56,5 @@ Rキーで `reload_current_scene()` を呼ぶと、小さな練習ゲームで�
 
 Zenn本文を読んだあと、PDF/EPUBで手元に置きたい場合や、途中で詰まったときに章ごとの完成サンプルZIPと比較したい場合はGumroad版があります。
 
+- Zenn無料版とGumroad版の違い: [zenn-free-vs-gumroad-package-ja.md](zenn-free-vs-gumroad-package-ja.md)
 - Gumroad版: https://batstudio.gumroad.com/l/arcxuq?utm_source=github_assets&utm_medium=learning_path&utm_campaign=godot_coin_ja_learning_path

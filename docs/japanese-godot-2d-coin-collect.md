@@ -25,6 +25,7 @@
 ## 技術メモ
 
 - [小さな2Dコイン収集ゲームを完成させる学習順](godot-4-coin-collect-learning-path-ja.md)
+- [Zenn無料版とGumroad版の違い](zenn-free-vs-gumroad-package-ja.md)
 - [Input MapでWASDと方向キーを同じ移動処理にする](godot-4-input-map-wasd-ja.md)
 - [2Dプレイヤーの斜め移動が速くなる問題を直す](godot-4-diagonal-speed-ja.md)
 - [Area2Dの当たり判定が反応しない時のチェックリスト](godot-4-area2d-collision-checklist-ja.md)

@@ -31,6 +31,7 @@ The tutorial covers player movement, Input Map, coin pickup, Area2D, signals, sc
 - Gumroad PDF/EPUB package: https://batstudio.gumroad.com/l/arcxuq?utm_source=github_assets&utm_medium=readme&utm_campaign=godot_coin_ja_assets
 - Japanese guide page in this repository: [docs/japanese-godot-2d-coin-collect.md](docs/japanese-godot-2d-coin-collect.md)
 - Japanese learning path: [docs/godot-4-coin-collect-learning-path-ja.md](docs/godot-4-coin-collect-learning-path-ja.md)
+- Zenn free vs Gumroad package: [docs/zenn-free-vs-gumroad-package-ja.md](docs/zenn-free-vs-gumroad-package-ja.md)
 - Input Map / WASD note: [docs/godot-4-input-map-wasd-ja.md](docs/godot-4-input-map-wasd-ja.md)
 - Diagonal movement speed note: [docs/godot-4-diagonal-speed-ja.md](docs/godot-4-diagonal-speed-ja.md)
 - Area2D collision checklist: [docs/godot-4-area2d-collision-checklist-ja.md](docs/godot-4-area2d-collision-checklist-ja.md)
@@ -46,6 +47,7 @@ Godot 4.xで最初の2Dゲームを完成させたい方向けに、コイン収
 - 無料デモ: https://batstudio.gumroad.com/l/godot-coin-ja-demo?utm_source=github_assets&utm_medium=readme_ja&utm_campaign=godot_coin_ja_assets
 - Gumroad版: https://batstudio.gumroad.com/l/arcxuq?utm_source=github_assets&utm_medium=readme_ja&utm_campaign=godot_coin_ja_assets
 - 学習順まとめ: [docs/godot-4-coin-collect-learning-path-ja.md](docs/godot-4-coin-collect-learning-path-ja.md)
+- Zenn無料版とGumroad版の違い: [docs/zenn-free-vs-gumroad-package-ja.md](docs/zenn-free-vs-gumroad-package-ja.md)
 
 ## Usage
 
