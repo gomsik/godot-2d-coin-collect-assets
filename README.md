@@ -21,9 +21,17 @@ assets/audio/game_over.wav
 
 ## Used By
 
-- Japanese edition: Zenn / Payhip
+- Japanese edition: Zenn / Gumroad
 - English edition: planned
 - Korean edition: Payhip
+
+## Japanese Godot Tutorial
+
+These assets are used by the Japanese Godot 4.x practice book that builds a small 2D coin collecting game from an empty project.
+
+- Free Zenn book: https://zenn.dev/batstudio/books/godot-2d-coin-collect-ja?utm_source=github_assets&utm_medium=readme&utm_campaign=godot_coin_ja_assets
+- Free browser demo: https://batstudio.gumroad.com/l/godot-coin-ja-demo?utm_source=github_assets&utm_medium=readme&utm_campaign=godot_coin_ja_assets
+- Gumroad PDF/EPUB package: https://batstudio.gumroad.com/l/arcxuq?utm_source=github_assets&utm_medium=readme&utm_campaign=godot_coin_ja_assets
 
 ## Usage
 
