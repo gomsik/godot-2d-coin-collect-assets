@@ -44,6 +44,14 @@ Rキーで `reload_current_scene()` を呼ぶと、小さな練習ゲームで�
 
 - [ゲームオーバー表示とRキーのリトライを作る最小構成](godot-4-game-over-retry-ja.md)
 
+## 5.5. コインをランダムな位置に出す
+
+スコア加算まで動いたら、同じコインを画面内の別の位置へ移動させると、ゲームらしい流れになります。
+
+最初はインスタンス生成よりも、既存の `Coin` ノードの `position` を変える形で確認すると扱いやすいです。
+
+- [コインを画面内のランダムな位置に出す基本形](godot-4-random-coin-spawn-ja.md)
+
 ## 6. 動かない時はNodeとSignalを確認する
 
 最後に、Sceneツリー上のNode名、Scriptを付けたNode、NodePath、Signal接続を確認します。
